@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kodrkaran/kodrkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 🚀 Founder & CEO @ Biteyc
 
 I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered automations, scalable web applications, and digital solutions that help businesses grow.
@@ -26,8 +11,6 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 - 🤖 Building AI Automation & Business Systems
 - 🌱 Currently learning **TypeScript** and advanced **Go**
 - 🚀 Turning ideas into scalable products
-
----
 
 ## 🛠️ Tech Stack
 
