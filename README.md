@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Karan Rajpoot 👋
-
 ## 🚀 Founder & CEO @ Biteyc
 
 I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered automations, scalable web applications, and digital solutions that help businesses grow.
@@ -40,12 +38,12 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=go,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=go,mysql" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -65,8 +63,3 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - 📧 Email: hello@biteyc.site
 
----
-
-### 💭 Quote
-
-> *"Building technology that helps businesses work smarter, grow faster, and scale with AI."*
