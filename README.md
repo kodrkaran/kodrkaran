@@ -1,48 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karan Rajpoot</h1>
 
-## 🚀 Founder & CEO @ Biteyc
-
-I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered automations, scalable web applications, and digital solutions that help businesses grow.
-
-### 👨‍💻 About Me
-
-- 🔭 Founder & CEO of **Biteyc**
-- 💻 Full-Stack Developer
-- 🤖 Building AI Automation & Business Systems
-- 🌱 Currently learning **TypeScript** and advanced **Go**
-- 🚀 Turning ideas into scalable products
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=go,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<h3 align="center">
+Founder & CEO @ Biteyc • Full-Stack Developer • AI Automation Enthusiast
+</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+Building AI-powered automations, scalable web applications, and business solutions.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Tech Stack
 
-- 🌍 Website: https://biteyc.site
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: hello@biteyc.site
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,go,mysql,tailwind,git,github,vscode,figma,postman&perline=6" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+- 🌍 https://biteyc.site
+- 📧 hello@biteyc.site
