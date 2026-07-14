@@ -39,9 +39,9 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kodrkaran&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kodrkaran&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodrkaran&theme=github_dark" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kodrkaran&theme=github_dark" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kodrkaran&theme=github_dark" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodrkaran&theme=github_dark" />
 </p>
 
 ## 🌐 Connect With Me
