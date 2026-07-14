@@ -1,12 +1,11 @@
 # Hi there, I'm Karan Rajpoot 👋
 
-## 🚀 Founder & CEO @ Biteyc
+### 🚀 Founder & CEO @ Biteyc
 
 I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered automations, scalable web applications, and digital solutions that help businesses grow.
 
 ### 👨‍💻 About Me
 
-- 🚀 Founder & CEO of **Biteyc**
 - 💻 Full-Stack Developer
 - 🤖 Building AI Automation & Business Systems
 - 🌱 Currently learning **TypeScript** and advanced **Go**
