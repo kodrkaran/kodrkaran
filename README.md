@@ -35,16 +35,16 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kodrkaran&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kodrkaran&theme=github_dark" />
 </p>
 
 ## 🌐 Connect With Me
 
 - 🌍 Website: https://biteyc.site
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💼 LinkedIn: https://linkedin.com/in/kodrkaran
 - 📧 Email: hello@biteyc.site
 
-## 💭 Quote
-
-> *"Building technology that helps businesses work smarter, grow faster, and scale with AI."*
