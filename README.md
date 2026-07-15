@@ -33,10 +33,10 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/netlify" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/godaddy" width="48" height="48" hspace="2" />
-  <img src="https://cdn.simpleicons.org/hostinger" width="48" height="48" hspace="2" />
-  <img src="https://cdn.simpleicons.org/paypal" width="48" height="48" hspace="2" />
-  <img src="https://cdn.simpleicons.org/meta" width="48" height="48" hspace="2" />
+  <img src="https://cdn.simpleicons.org/godaddy" width="48" height="48" hspace="3" />
+  <img src="https://cdn.simpleicons.org/hostinger" width="48" height="48" hspace="3" />
+  <img src="https://cdn.simpleicons.org/paypal" width="48" height="48" hspace="3" />
+  <img src="https://cdn.simpleicons.org/meta" width="48" height="48" hspace="3" />
 </p>
 
 ## 📊 GitHub Stats
