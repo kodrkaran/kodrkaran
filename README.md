@@ -31,6 +31,14 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/netlify" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/godaddy" width="48" height="48" hspace="2" />
+  <img src="https://cdn.simpleicons.org/hostinger" width="48" height="48" hspace="2" />
+  <img src="https://cdn.simpleicons.org/paypal" width="48" height="48" hspace="2" />
+  <img src="https://cdn.simpleicons.org/meta" width="48" height="48" hspace="2" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
