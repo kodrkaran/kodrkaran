@@ -8,7 +8,7 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 
 - 💻 Full-Stack Developer
 - 🤖 Building AI Automation & Business Systems
-- 🌱 Currently learning **TypeScript** and advanced **Go**
+- 🌱 Currently learning **NodeJS** and advanced **Go**
 - 🚀 Turning ideas into scalable products
 
 ## 🛠️ Tech Stack
@@ -58,5 +58,5 @@ I'm a Full-Stack Developer and Entrepreneur passionate about building AI-powered
 
 - 🌍 Website: https://biteyc.site
 - 💼 LinkedIn: https://linkedin.com/in/kodrkaran
-- 📧 Email: hello@biteyc.site
+- 📧 Email: karanrajpoot976@gmail.com 
 
